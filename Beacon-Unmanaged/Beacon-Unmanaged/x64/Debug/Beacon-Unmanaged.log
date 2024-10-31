@@ -1,0 +1,5 @@
+﻿  ProcessHelper.cpp
+C:\Users\teodor.radoi\AppSecTesting\sample-c2\Beacon-Unmanaged\Beacon-Unmanaged\ProcessHelper.cpp(153,19): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  Program.cpp
+  Generating Code...
+  Beacon-Unmanaged.vcxproj -> C:\Users\teodor.radoi\AppSecTesting\sample-c2\Beacon-Unmanaged\x64\Debug\Beacon-Unmanaged.exe
