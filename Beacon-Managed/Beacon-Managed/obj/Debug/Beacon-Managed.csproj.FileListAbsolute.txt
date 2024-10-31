@@ -1,0 +1,10 @@
+C:\Users\teodor.radoi\AppSecTesting\sample-c2\Beacon-Managed\Beacon-Managed\bin\Debug\Beacon-Managed.exe.config
+C:\Users\teodor.radoi\AppSecTesting\sample-c2\Beacon-Managed\Beacon-Managed\bin\Debug\Beacon-Managed.exe
+C:\Users\teodor.radoi\AppSecTesting\sample-c2\Beacon-Managed\Beacon-Managed\bin\Debug\Beacon-Managed.pdb
+C:\Users\teodor.radoi\AppSecTesting\sample-c2\Beacon-Managed\Beacon-Managed\obj\Debug\Beacon-Managed.csproj.AssemblyReference.cache
+C:\Users\teodor.radoi\AppSecTesting\sample-c2\Beacon-Managed\Beacon-Managed\obj\Debug\Beacon-Managed.csproj.CoreCompileInputs.cache
+C:\Users\teodor.radoi\AppSecTesting\sample-c2\Beacon-Managed\Beacon-Managed\obj\Debug\Beacon-Managed.exe
+C:\Users\teodor.radoi\AppSecTesting\sample-c2\Beacon-Managed\Beacon-Managed\obj\Debug\Beacon-Managed.pdb
+C:\Users\teodor.radoi\AppSecTesting\sample-c2\Beacon-Managed\Beacon-Managed\bin\Debug\Newtonsoft.Json.dll
+C:\Users\teodor.radoi\AppSecTesting\sample-c2\Beacon-Managed\Beacon-Managed\bin\Debug\Newtonsoft.Json.xml
+C:\Users\teodor.radoi\AppSecTesting\sample-c2\Beacon-Managed\Beacon-Managed\obj\Debug\Beacon-M.65C09ED4.Up2Date
