@@ -50,3 +50,17 @@ std::string Utils::base64encode(std::string strBuf) {
 
     return ret;
 }
+
+
+std::wstring Utils::toWCharStr(std::string cStr) {
+    const int cStrLen = cStr.length()+1;
+    char *c = (char*)malloc(cStrLen * sizeof(char));
+    strcpy(c, cStr.c_str());
+
+    const size_t cSize = strlen(c) + 1;
+    wchar_t* wc = new wchar_t[cSize];
+    mbstowcs(wc, c, cSize);
+
+    return std::wstring(wc);
+
+}

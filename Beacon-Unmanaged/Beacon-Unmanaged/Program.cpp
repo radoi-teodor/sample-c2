@@ -3,6 +3,8 @@
 #include "ProcessHelper.h"
 #include "HostOperations.h"
 
+static std::string teamserverIp = "127.0.0.1";
+
 int main() {
 
 	std::string id = HostOperations::GetBeaconId();
